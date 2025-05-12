@@ -1,0 +1,16 @@
+{
+  "name": "expo-chat-app",
+  "version": "1.0.0",
+  "description": "A real-time chat app built with Expo and WebSockets, enabling instant messaging with live updates.",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "socket.io": "^4.8.1"
+  }
+}
